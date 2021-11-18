@@ -12,8 +12,8 @@ Below are three key differences I found when analyzing weather in June and Decem
 - Although the temperature ranges weren't off by a lot, I noticed that 75% of the days in June had temperatures of 73 degrees or high while December only had 25% of days with a temperature of 74 degrees or higher.
 
 <p float="left">
-  <img width="140" alt="June Temps" src="https://user-images.githubusercontent.com/90946252/142322107-311887a5-8308-438c-9b5e-914ae818d168.png">
-  <img width="140" alt="December Temps" src="https://user-images.githubusercontent.com/90946252/142322260-fa479f0f-9012-4449-8a64-15d9c047e7f1.png"> 
+  <img width="136" alt="June Temps" src="https://user-images.githubusercontent.com/90946252/142322107-311887a5-8308-438c-9b5e-914ae818d168.png">
+  <img width="157" alt="December Temps" src="https://user-images.githubusercontent.com/90946252/142322260-fa479f0f-9012-4449-8a64-15d9c047e7f1.png"> 
 </p>
 
 ## Summary
