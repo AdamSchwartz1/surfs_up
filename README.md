@@ -13,6 +13,8 @@ Below are three key differences I found when analyzing weather in June and Decem
 
 <p float="left">
   <img width="136" alt="June Temps" src="https://user-images.githubusercontent.com/90946252/142322107-311887a5-8308-438c-9b5e-914ae818d168.png">
+  
+  
   <img width="157" alt="December Temps" src="https://user-images.githubusercontent.com/90946252/142322260-fa479f0f-9012-4449-8a64-15d9c047e7f1.png"> 
 </p>
 
